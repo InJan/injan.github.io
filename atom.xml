@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>君子忧道亦忧贫</title>
+  <subtitle>强本而节用，则天不能贫。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-03-14T14:42:03.077Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>injan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Problems</title>
+    <link href="http://yoursite.com/2017/03/14/Hexo-Problems/"/>
+    <id>http://yoursite.com/2017/03/14/Hexo-Problems/</id>
+    <published>2017-03-14T13:54:27.000Z</published>
+    <updated>2017-03-14T14:42:03.077Z</updated>
+    
+    <content type="html"><![CDATA[<p>if you deploy hexo<br>some questions appear<br>you can search you hexo root directory(ls -a) for .git / .deploy_git delete them<br>and then sudo hexo d -g again .  just like restart for computer .</p>
+<p>memorandum cluase for myself  ./start.sh  . ./path.sh  ./edit.sh ./rmarticle.sh</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;if you deploy hexo&lt;br&gt;some questions appear&lt;br&gt;you can search you hexo root directory(ls -a) for .git / .deploy_git delete them&lt;br&gt;and th
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
