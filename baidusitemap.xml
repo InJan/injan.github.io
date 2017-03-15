@@ -4,8 +4,25 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/03/15/novel1/</loc>
+    <lastmod>2017-03-15T10:04:02.973Z</lastmod>
+    <data>
+        <display>
+        <title>小小说</title>
+        <pubTime>2017-03-15T13:54:27.000Z</pubTime>
+        
+        <tag>小说</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/03/14/Hexo-Problems/</loc>
-    <lastmod>2017-03-15T09:44:30.504Z</lastmod>
+    <lastmod>2017-03-15T09:52:06.308Z</lastmod>
     <data>
         <display>
         <title>Hexo Problems</title>
