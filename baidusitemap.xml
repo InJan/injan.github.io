@@ -3,19 +3,21 @@
 
 
     
-    
   <url>
     <loc>http://yoursite.com/2017/03/14/Hexo-Problems/</loc>
-    <lastmod>2017-03-14T14:42:03.077Z</lastmod>
+    <lastmod>2017-03-15T09:44:30.504Z</lastmod>
     <data>
         <display>
         <title>Hexo Problems</title>
         <pubTime>2017-03-14T13:54:27.000Z</pubTime>
         
+        <tag>hexo build</tag>
+         
          
            
         </display>
     </data>
     </url>
 
+    
 </urlset>
