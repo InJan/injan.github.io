@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-17T01:49:40.977Z</updated>
+  <updated>2017-03-17T02:03:13.800Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/03/16/report/"/>
     <id>http://yoursite.com/2017/03/16/report/</id>
     <published>2017-03-16T15:59:59.000Z</published>
-    <updated>2017-03-17T01:49:40.977Z</updated>
+    <updated>2017-03-17T02:03:13.800Z</updated>
     
     <content type="html"><![CDATA[<h3 id="一、研究背景及意义"><a href="#一、研究背景及意义" class="headerlink" title="一、研究背景及意义"></a>一、研究背景及意义</h3><p>1.Chinese Students and Scholars Association 中国学生学者联合会。由于海外留学生与境外学者人数的增多，世界各地都有成立地方性的CSSA，是以促进学生学者交流及活动为目的的非盈利性、非政治性、综合性组织。旨在提高学生学者的学习生活质量，推广中国传统文化，促进中英学术和文化交流，为中国学生学者提供展示才华和追求梦想的平台，并与当地工作、生活的其他华人华侨以及华人社团保持着长期紧密的合作。</p>
 <p>2.联合会缺乏有效的线上管理。各会内部管理工作还存在失序、人员登陆登出紊乱等现象，管理工作纷繁，对于档案信息及活动状况无详细备案，没有科学的管理方式。</p>
@@ -162,8 +162,8 @@
 </ul>
 </li>
 <li><h4 id="数据流图"><a href="#数据流图" class="headerlink" title="数据流图"></a>数据流图</h4><ul>
-<li>用户登录注册 图1<br><img src="./images/1489713996585.jpg" alt="enter description here" title="1489713996585.jpg"></li>
-<li>活动发布 图2<br><img src="./images/1489713953534.jpg" alt="enter description here" title="1489713953534.jpg"><h3 id="八、系统各模块功能"><a href="#八、系统各模块功能" class="headerlink" title="八、系统各模块功能"></a>八、系统各模块功能</h3></li>
+<li>用户登录注册 图1<br><img src="http://omul10khx.bkt.clouddn.com/zhucetu.png" alt="enter description here"></li>
+<li>活动发布 图2<br><img src="http://omul10khx.bkt.clouddn.com/huodongfabu.png" alt="enter description here"><h3 id="八、系统各模块功能"><a href="#八、系统各模块功能" class="headerlink" title="八、系统各模块功能"></a>八、系统各模块功能</h3></li>
 </ul>
 </li>
 <li>登录模块：用户信息验证</li>
@@ -174,7 +174,7 @@
 <li>活动发布模块：活动提交、审核、通过则确认发布向权限内受众</li>
 <li>会员管理模块：人员增删改、审核处理、权限操作</li>
 <li>…etc<h3 id="九、数据库设计"><a href="#九、数据库设计" class="headerlink" title="九、数据库设计"></a>九、数据库设计</h3></li>
-<li><h4 id="概念模型设计-E-R图-图3"><a href="#概念模型设计-E-R图-图3" class="headerlink" title="概念模型设计(E-R图) 图3"></a>概念模型设计(E-R图) 图3</h4><img src="./images/1489715145426.jpg" alt="enter description here" title="1489715145426.jpg"></li>
+<li><h4 id="概念模型设计-E-R图-图3"><a href="#概念模型设计-E-R图-图3" class="headerlink" title="概念模型设计(E-R图) 图3"></a>概念模型设计(E-R图) 图3</h4><img src="http://omul10khx.bkt.clouddn.com/E-R.png" alt="enter description here"></li>
 <li><h4 id="数据库分析"><a href="#数据库分析" class="headerlink" title="数据库分析"></a>数据库分析</h4><ul>
 <li>实验暂用轻量级关系型数据库 mysql </li>
 <li>处理高并发或尝试使用NoSQL(no relational)型数据库</li>
